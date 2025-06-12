@@ -25,13 +25,6 @@ Student-Management-System/
 └── screenshots/
 └── ui.png # Screenshot of the app interface (if available)
 
-
-## 🖼️ Screenshots
-
-> Add a screenshot of your app's interface in the `screenshots/` folder and link it here.
-
-![App UI](screenshots/ui.png)
-
 ## 🚀 How to Run
 
 1. Make sure Python is installed on your system.
